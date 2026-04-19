@@ -7,9 +7,6 @@ import time
 from bs4 import BeautifulSoup, NavigableString
 import lxml.html
 
-USER = 'autumnc'
-PASS = '19831983###'
-
 KEY_ENTER        = ['enter', 'right', 'l']
 KEY_BACK         = ['esc', 'backspace', 'left', 'h']
 KEY_REFRESH      = ['r', 'f5']
